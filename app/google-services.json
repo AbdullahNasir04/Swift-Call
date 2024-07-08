@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118376634689",
+    "project_id": "swift-call-fc3ce",
+    "storage_bucket": "swift-call-fc3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118376634689:android:135991d697e79d147f69c0",
+        "android_client_info": {
+          "package_name": "com.example.swiftcall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgA0l6GgcF6fFPFzWce_8EzKG8X2na0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
